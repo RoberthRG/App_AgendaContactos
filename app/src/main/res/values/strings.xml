@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App_AgendaContactos</string>
+    <string name="agenda_de_contactos">AGENDA DE CONTACTOS!</string>
+    <string name="add">Add</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="direccion">Dirección</string>
+    <string name="email">Email</string>
+    <string name="edad">Edad</string>
+    <string name="mail">Email</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="mail_address">Email</string>
+    <string name="txtname">Nombre</string>
+    <string name="txttelefono">Teléfono</string>
+    <string name="txtdireccion">Dirección</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="lblId">Id</string>
+    <string name="txtName">Name</string>
+</resources>
